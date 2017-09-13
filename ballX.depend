@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491908454 source:c:\users\vicky bhuva\desktop\graphics\ballx\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+
+1426329928 c:\program files (x86)\codeblocks\mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\program files (x86)\codeblocks\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
